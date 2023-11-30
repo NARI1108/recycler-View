@@ -16,3 +16,5 @@
        Applicable on all Android operating systems
           
   </ul> 
+  <code><strong>The purpose of making this application is to familiarize with the following:</strong></code>
+  
