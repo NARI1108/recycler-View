@@ -6,3 +6,5 @@
 </h3>
 
 ## ✨Recycler View Vidoe
+
+## <code><strong>About App</strong></code> ##
